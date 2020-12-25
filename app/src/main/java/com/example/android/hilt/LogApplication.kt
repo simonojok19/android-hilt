@@ -28,4 +28,6 @@ class LogApplication : Application() {
         super.onCreate()
         serviceLocator = ServiceLocator(applicationContext)
     }
+
+
 }
